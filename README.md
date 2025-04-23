@@ -32,7 +32,7 @@ I'm a **_Software Developer_** with several years of experience building digital
 ```ts
 Frontend: React · Next.js · TailwindCSS · React Native · TypeScript
 Backend: Node.js · Express · PostgreSQL · MongoDB · Spring Boot
-Tools: Prisma · Docker · AWS · GitHub Actions · Redis · Bash scripts
+Tools: Prisma · Docker · AWS · GitHub Actions · Redis · Bash Scripts
 Testing: Jest · JUnit5
 UX/UI: Framer Motion · GSAP · ShadCN UI · Chart.js
 ```
@@ -43,9 +43,7 @@ UX/UI: Framer Motion · GSAP · ShadCN UI · Chart.js
   <img src="https://github-readme-stats.vercel.app/api?username=JacceyCode&show_icons=true&theme=radical" alt="Jacob's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JacceyCode&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JacceyCode&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacceyCode&layout=compact&theme=radical" alt="Top Languages" />
