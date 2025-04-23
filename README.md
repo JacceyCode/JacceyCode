@@ -43,7 +43,7 @@ UX/UI: Framer Motion · GSAP · ShadCN UI · Chart.js
   <img src="https://github-readme-stats.vercel.app/api?username=JacceyCode&show_icons=true&theme=radical" alt="Jacob's GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JacceyCode&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<p align="center"><img src="https://streak-stats.demolab.com?user=JacceyCode&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacceyCode&layout=compact&theme=radical" alt="Top Languages" />
