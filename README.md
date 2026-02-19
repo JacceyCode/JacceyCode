@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jacob 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Software+Engineer;JavaScript/TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js/Express.js+%E2%80%A2+Java/SpringBoot;C\#/Dotnet;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Software+Engineer;JavaScript/TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js/Express.js+%E2%80%A2+Java/SpringBoot;CSharp/Dotnet;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -35,20 +35,6 @@ Tools: AWS · Docker · GitHub Actions · Redis · Kafka · RabbitMQ · Prisma �
 Testing: Jest · JUnit5 · xUnit
 UX/UI: Framer Motion · GSAP · ShadCN UI · Chart.js
 ```
-
-# ## 📈 GitHub Stats
-
-# <p align="center">
-
-# <img src="https://github-readme-stats.vercel.app/api?username=JacceyCode&show_icons=true&theme=radical" alt="Jacob's GitHub Stats" />
-
-# </p>
-
-# <p align="center">
-
-# <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacceyCode&layout=compact&theme=radical" alt="Top Languages" />
-
-# </p>
 
 ## <img src="image.png" alt="ChatGPT" width="25"/> _Skills Review_
 
