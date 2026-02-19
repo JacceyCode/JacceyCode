@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer • Problem Solver • Product-Centric Developer</b><br/>
+  <b>Software Engineer • Problem Solver</b><br/>
   <i>I build scalable web and mobile applications that perform and delight users.</i>
 </p>
 
@@ -20,7 +20,7 @@
 I'm a **_Software Engineer_** with experience in building digital products that scale. Whether it's a RESTful API, a frontend SPA, or a mobile app with real-time data, either running on **_monolith or micro-service or event-driven serverless architecture_**, I deliver performant and user-focused solutions.
 
 - 🔭 Currently working at **TraderApp**
-- 💬 Ask me about **_JavaSCript, SQL, React, Next.js, Node.js, Java, C\#, MongoDB, MySQL, PostgreSQL, SQLServer, React Native_**
+- 💬 Ask me about **_JavaSCript, SQL, React, Next.js, Node.js, Java, CSharp, MongoDB, MySQL, PostgreSQL, SQLServer, React Native_**
 - 🧠 Constantly learning new tools and best practices
 - 🔐 Data security advocate
 
@@ -30,7 +30,7 @@ I'm a **_Software Engineer_** with experience in building digital products that 
 
 ```ts
 Frontend: JavaScript · TypeScript · React · Next.js · TailwindCSS · React Native
-Backend: Node.js · Express · Java · Spring Boot · C\# · Dotnet · SQLServer · PostgreSQL · MongoDB · MySQL
+Backend: Node.js · Express · Java · Spring Boot · CSharp · Dotnet · SQLServer · PostgreSQL · MongoDB · MySQL
 Tools: AWS · Docker · GitHub Actions · Redis · Kafka · RabbitMQ · Prisma · Bash Scripts
 Testing: Jest · JUnit5 · xUnit
 UX/UI: Framer Motion · GSAP · ShadCN UI · Chart.js
