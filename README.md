@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Jacob 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Software+Developer;JavaScript/TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js/Express.js+%E2%80%A2+Java/SpringBoot;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Software+Engineer;JavaScript/TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js/Express.js+%E2%80%A2+Java/SpringBoot;C\#/Dotnet;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <b>Full Stack Engineer • Problem Solver • Product-Centric Developer</b><br/>
+  <b>Software Engineer • Problem Solver • Product-Centric Developer</b><br/>
   <i>I build scalable web and mobile applications that perform and delight users.</i>
 </p>
 
@@ -17,10 +17,10 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **_Software Developer_** with experience in building digital products that scale. Whether it's a RESTful API, a frontend SPA, or a mobile app with real-time data, either running on **_monolith or micro-service or event-driven serverless architecture_**, I deliver performant and user-focused solutions.
+I'm a **_Software Engineer_** with experience in building digital products that scale. Whether it's a RESTful API, a frontend SPA, or a mobile app with real-time data, either running on **_monolith or micro-service or event-driven serverless architecture_**, I deliver performant and user-focused solutions.
 
 - 🔭 Currently working at **TraderApp**
-- 💬 Ask me about **_JavaSCript, SQL, React, Next.js, Node.js, Java, MongoDB, MySQL, PostgreSQL, React Native_**
+- 💬 Ask me about **_JavaSCript, SQL, React, Next.js, Node.js, Java, C\#, MongoDB, MySQL, PostgreSQL, SQLServer, React Native_**
 - 🧠 Constantly learning new tools and best practices
 - 🔐 Data security advocate
 
@@ -30,21 +30,25 @@ I'm a **_Software Developer_** with experience in building digital products that
 
 ```ts
 Frontend: JavaScript · TypeScript · React · Next.js · TailwindCSS · React Native
-Backend: Node.js · Express · Java · Spring Boot · PostgreSQL · MongoDB
+Backend: Node.js · Express · Java · Spring Boot · C\# · Dotnet · SQLServer · PostgreSQL · MongoDB · MySQL
 Tools: AWS · Docker · GitHub Actions · Redis · Kafka · RabbitMQ · Prisma · Bash Scripts
-Testing: Jest · JUnit5
+Testing: Jest · JUnit5 · xUnit
 UX/UI: Framer Motion · GSAP · ShadCN UI · Chart.js
 ```
 
-## 📈 GitHub Stats
+# ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacceyCode&show_icons=true&theme=radical" alt="Jacob's GitHub Stats" />
-</p>
+# <p align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacceyCode&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+# <img src="https://github-readme-stats.vercel.app/api?username=JacceyCode&show_icons=true&theme=radical" alt="Jacob's GitHub Stats" />
+
+# </p>
+
+# <p align="center">
+
+# <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacceyCode&layout=compact&theme=radical" alt="Top Languages" />
+
+# </p>
 
 ## <img src="image.png" alt="ChatGPT" width="25"/> _Skills Review_
 
